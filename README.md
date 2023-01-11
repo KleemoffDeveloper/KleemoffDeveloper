@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KleemoffDeveloper
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Unity games
-- 📫 How to reach me kleemoffdeveloper@gmail.com
+- 👋 Hi, I’m Silis
+- 🌱 I do Fullstack Web Development
+- 💞️ I also do Unity Game Development
+- 📫 How to reach me: kleemoffdeveloper@gmail.com
 
 <!---
 KleemoffDeveloper/KleemoffDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
