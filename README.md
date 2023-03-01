@@ -1,6 +1,6 @@
 # Junior Software Engineer
 
-- 🫂 I'm a [Pursuit Fellow](https://pursuit.org)
+- 💻 I'm a [Pursuit Fellow](https://pursuit.org)
 - 🌱 I do Fullstack Web Development
 - 💞️ I also do Unity Game Development
 - 📫 How to reach me: kleemoffdeveloper@gmail.com
