@@ -21,9 +21,12 @@
 5. Grand Theft Auto 5 Online
 <img src="https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4ka18ao8a4o227/632b5c8862ffdfbad33eb015f78d3ba5b90fa991.jpg" width="456" height="256">
 
-## Special Mention
+## Special Mentions
 #### Fornite (Season 1 - Season 3)
 <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/fortnite/2/2a/Fortnite-blog-patch-v-1-6---fortnite-battle-royale-Fortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg" width="456" height="256">
+
+#### Mario Kart 7 & 8
+<img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453" width="456" height="256">
 
 <!---
 KleemoffDeveloper/KleemoffDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
