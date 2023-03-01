@@ -1,5 +1,4 @@
-# Silis Kleemoff
-## Junior Software Enginner
+# Junior Software Engineer
 
 - 🫂 I'm a [Pursuit Fellow](https://pursuit.org)
 - 🌱 I do Fullstack Web Development
