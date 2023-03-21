@@ -12,7 +12,7 @@
 ## My First Game Development Project
 <img src="https://play-lh.googleusercontent.com/zBxwvEZ1-zrBfgquwn66IRO3-ymyNOF0Qp4vraQm7WhV5nScZxprslKfYI-N8PxxMxw" width="556" height="256">
 
-## My Top 5 Video Games of All Time
+## My Top 5 Favorite Video Games of All Time
 1. The Elder Scrolls V: Skyrim 
 <img src="https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/h12URI7MdswtFPFHpkppNh2z.png" width="456" height="256">
 2. Minecraft
