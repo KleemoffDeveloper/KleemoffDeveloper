@@ -5,6 +5,9 @@
 - 🎮 I also do Unity Game Development
 - 📫 Collaboration or job offers (or if you just wanna be friends): kleemoffdeveloper@gmail.com
 
+# <code>let codewarsScore =</code> <img src="https://www.codewars.com/users/Kleemoff%20Dev/badges/small"> 
+(^^^Thanks [Harold](https://github.com/HaroldF415) for the idea lol)
+
 ---
 
 #### I love video games! That's probably why I decided to start making them.
