@@ -16,7 +16,7 @@
 <img src="https://play-lh.googleusercontent.com/zBxwvEZ1-zrBfgquwn66IRO3-ymyNOF0Qp4vraQm7WhV5nScZxprslKfYI-N8PxxMxw" width="auto" height="auto">
 
 ## My Top 5 Favorite Video Games of All Time
-1. The Elder Scrolls V: Skyrim 
+1. The Elder Scrolls 5 Skyrim 
 <img src="https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/h12URI7MdswtFPFHpkppNh2z.png" width="auto" height="auto">
 2. Minecraft
 <img src="https://m.media-amazon.com/images/M/MV5BMzgyZWEzMDgtMzI0YS00ZDMwLTllNjQtZjE3ZmVkNWM3YzliXkEyXkFqcGdeQXVyMTYxNzI4OTYx._V1_FMjpg_UX1000_.jpg" width="auto" height="auto">
