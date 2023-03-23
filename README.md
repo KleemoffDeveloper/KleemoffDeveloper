@@ -19,7 +19,7 @@
 1. The Elder Scrolls V: Skyrim 
 <img src="https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/h12URI7MdswtFPFHpkppNh2z.png" width="456" height="256">
 2. Minecraft
-<img src="https://m.media-amazon.com/images/M/MV5BMzgyZWEzMDgtMzI0YS00ZDMwLTllNjQtZjE3ZmVkNWM3YzliXkEyXkFqcGdeQXVyMTYxNzI4OTYx._V1_FMjpg_UX1000_.jpg" width="80%" height="40%">
+<img src="https://m.media-amazon.com/images/M/MV5BMzgyZWEzMDgtMzI0YS00ZDMwLTllNjQtZjE3ZmVkNWM3YzliXkEyXkFqcGdeQXVyMTYxNzI4OTYx._V1_FMjpg_UX1000_.jpg" width="auto" height="auto">
 3. Call of Duty Black Ops 2 (Multiplayer Zombies)
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/219103/ss_c40100e740565c440828ca31ff45d99b35688c8d.1920x1080.jpg?t=1447358610" width="456" height="256">
 4. Call of Duty Black Ops 3 (Multiplayer Zombies)
